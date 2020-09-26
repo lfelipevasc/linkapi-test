@@ -1,0 +1,22 @@
+{
+  "name": "linkapi-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lfelipevasc/linkapi-test.git",
+  "author": "Luis Felipe <lfelipevasconcellos@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "nodemon": "^2.0.4"
+  }
+}
