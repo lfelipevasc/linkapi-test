@@ -13,7 +13,6 @@
 
 ### Como rodar o projeto:
 
-  
 
 1 - Clonar o projeto para a sua maquina
 
@@ -22,13 +21,13 @@
 > cd linkapi-test
 
   
-
 2 - Instalar as dependências
 
-> yarn
+> yarn install
 
 3 - Rodar o projeto
 
 > yarn start
 
+### Antes de iniciar a aplicação será preciso configurar as api keys no arquivo .env
 
